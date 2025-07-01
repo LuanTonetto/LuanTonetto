@@ -7,7 +7,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na UNINTER
 
 Tenho interesse em desenvolvimento web, com foco em tecnologias como **HTML**, **CSS**, **JavaScript** e **Python**. Estou sempre em busca de novos desafios e aprendizados práticos por meio de projetos pessoais e cursos.
 
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -35,7 +35,6 @@ Tenho interesse em desenvolvimento web, com foco em tecnologias como **HTML**, *
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -44,9 +43,6 @@ Tenho interesse em desenvolvimento web, com foco em tecnologias como **HTML**, *
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-
-
 <img 
     align="left" 
     alt="Git" 
@@ -55,7 +51,6 @@ Tenho interesse em desenvolvimento web, com foco em tecnologias como **HTML**, *
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -65,7 +60,7 @@ Tenho interesse em desenvolvimento web, com foco em tecnologias como **HTML**, *
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
----
+<br><br><br> <!-- ESSA PARTE AQUI FAZ A QUEBRA PARA ALINHAR O QUE VEM DEPOIS -->
 
 ## 🎯 Objetivo
 
@@ -77,8 +72,6 @@ Busco minha **primeira oportunidade na área de TI**, com o objetivo de aplicar 
 - [LinkedIn](https://www.linkedin.com/in/luan-tonetto-471543345/)
 - [GitHub](https://github.com/LuanTonetto)
 
----
-
 ## 🧠 Projetos em destaque
 
 | Projeto | Descrição | Link |
@@ -86,6 +79,5 @@ Busco minha **primeira oportunidade na área de TI**, com o objetivo de aplicar 
 | **VSB Serviços** | Site institucional com informações e serviços da empresa | [Ver projeto](https://luantonetto.github.io/VSB/) |
 | **Login VSB** | Página de login personalizada para acesso interno | [Ver projeto](https://luantonetto.github.io/VSB-login/) |
 
----
 
 📌 *Este portfólio está em constante atualização, acompanhe minha jornada!*
