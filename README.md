@@ -1,12 +1,16 @@
-# 👨‍💻 Luan Tonetto
+### 🛡️ Luan Tonetto - Cybersecurity Enthusiast
 
-**`Estudante ADS`**
+Apaixonado por tecnologia e segurança da informação. Graduando em ADS, com foco total em **InfoSec**. Busco entender a mente do atacante para construir defesas mais robustas.
 
-Olá! Me chamo **Luan Tonetto**, tenho 25 anos e sou natural de Ribeirão Preto - SP.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na UNINTER.
+**O que estou desenvolvendo:**
+* 🔭 **Red Team:** Estudos em exploração web e pentesting (foco em OWASP Top 10).
+* 🛡️ **Blue Team:** Monitoramento, análise de logs e práticas de defesa.
+* 🐍 **Automação:** Criação de scripts em **Python** para tarefas de segurança.
 
-Tenho interesse em desenvolvimento web, com foco em tecnologias como **HTML**, **CSS**, **JavaScript** e **Python**. Estou sempre em busca de novos desafios e aprendizados práticos por meio de projetos pessoais e cursos.
-
+**Habilidades Técnicas:**
+* Python & Bash Scripting
+* Web Security (HTML/CSS/JS knowledge applied to AppSec)
+* Linux & Networking
 
 
 ### 🤖 Linguagens e Tecnologias
