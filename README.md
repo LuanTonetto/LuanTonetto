@@ -66,9 +66,6 @@ Apaixonado por tecnologia e segurança da informação. Graduando em ADS, com fo
 
 <br><br><br> <!-- ESSA PARTE AQUI FAZ A QUEBRA PARA ALINHAR O QUE VEM DEPOIS -->
 
-## 🎯 Objetivo
-
-Busco minha **primeira oportunidade na área de TI**, com o objetivo de aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções inovadoras.
 
 ---
 
