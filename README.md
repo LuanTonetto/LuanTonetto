@@ -79,6 +79,14 @@ Apaixonado por tecnologia e segurança da informação. Graduando em ADS, com fo
 |--------|------------|------|
 | **VSB Serviços** | Site institucional com informações e serviços da empresa | [Ver projeto](https://luantonetto.github.io/VSB/) |
 | **Login VSB** | Página de login personalizada para acesso interno | [Ver projeto](https://luantonetto.github.io/VSB-login/) |
+| **Teste de Vulnerabilidade Windows 7** | Relatório e execução de pentest em um ambiente Windows 7 | [Ver projeto](https://github.com/LuanTonetto/Teste-Vulnerabilidade-Win7-Windows-7-penetration-testing) |
 
 
-📌 *Este portfólio está em constante atualização, acompanhe minha jornada!*
+## 👨‍💻 Autoria & Propósito
+
+Todo o conteúdo, projetos e materiais apresentados neste perfil foram produzidos por **Luan Tonetto**, com foco em desenvolvimento, automação, segurança da informação e aprendizado contínuo.
+
+### ⚠️ Aviso Legal  
+As análises, estudos e projetos relacionados à **segurança da informação, testes de vulnerabilidade e pentest** têm finalidade **exclusivamente educacional e de pesquisa**.  
+Práticas de teste em sistemas, redes ou dispositivos **sem autorização explícita** são ilegais e violam princípios éticos.  
+Busco promover o uso responsável e seguro do conhecimento em cibersegurança.
