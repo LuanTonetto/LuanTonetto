@@ -80,6 +80,7 @@ Apaixonado por tecnologia e segurança da informação. Graduando em ADS, com fo
 | **VSB Serviços** | Site institucional com informações e serviços da empresa | [Ver projeto](https://luantonetto.github.io/VSB/) |
 | **Login VSB** | Página de login personalizada para acesso interno | [Ver projeto](https://luantonetto.github.io/VSB-login/) |
 | **Teste de Vulnerabilidade Windows 7** | Relatório e execução de pentest em um ambiente Windows 7 | [Ver projeto](https://github.com/LuanTonetto/Teste-Vulnerabilidade-Win7-Windows-7-penetration-testing) |
+| **Alfabetização Digital Básica** | Projeto Alfabetização Digital Básica UNINTER | [Ver projeto](https://github.com/LuanTonetto/Alfabetizacao-digital) |
 
 
 ## 👨‍💻 Autoria & Propósito
